@@ -1,0 +1,34 @@
+[
+    {
+        "genre": ["new", "arcade"],
+        "img": "./img/games/1_SaddleUp.webp",
+        "title": "Saddle Up",
+        "frame": "https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=goldencolts&lang=en_US&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://asccw.playngonetwork.com/&showpoweredby=True",
+        "desc": "Brilliant Colts incorporates a wild image (the Bull) and a reward dissipate image (the Golden Colts’ crate). The wild image substitutes for some other reel images with the exception of the reward disperse to assist with involving winning mixes. Some other brief wild image likewise fill in for some other reel images aside from the reward dissipate image.",
+        "link": "#"
+    },
+    {
+        "genre": "2",
+        "img": "./img/games/2_MakeContact.webp",
+        "title": "Make Contact",
+        "frame": "https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=contact&lang=en_US&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://asccw.playngonetwork.com/&showpoweredby=True",
+        "desc": "Wins are achieved by getting 5 or more matching symbols in a connected cluster where they touch each other horizontally and/or vertically. Each symbol has a value and the total win of the round is calculated by multiplying the number of alike winning symbols by the value of that symbol. During a game round, winning clusters will not be removed. Instead, non-winning symbols will be removed, then winning symbols will cascade down and get locked in place, then new symbols will cascade in to fill the grid. These new symbols can connect to the existing winning symbols to increase the size of the clusters or create entirely new clusters. The game continues to cascade until no new winning combinations are created.",
+        "link": "#"
+    },
+    {
+        "genre": "3",
+        "img": "./img/games/3_StrikeGold.webp",
+        "title": "Strike Gold",
+        "frame": "https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=wildfalls&lang=en_US&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://asccw.playngonetwork.com/&showpoweredby=True",
+        "desc": "It is 1896 and the Klondike Gold Rush is simply starting. Go to the Yukon River to get yourself a slice of the pie! The game has an incredible new element where you can see the Wilds as they stream along the waterway and drop onto your reels! Watch in expectation as the Wild Chests float delicately towards the reels and afterward drop, assisting you with making additional triumphant mixes and adding an additional an aspect to your ongoing interaction. ",
+        "link": "#"
+    },
+    {
+        "genre": "4",
+        "img": "./img/games/4_DinoMite.webp",
+        "title": "Dino Mite",
+        "frame": "https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=ragingrex&lang=en_US&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://asccw.playngonetwork.com/&showpoweredby=True",
+        "desc": "The dinosaurs meander indiscriminately in this 6-reel video space, assisting you with matching 3, 4, 5 or 6 images across a gigantic 4,096 payways to get a standard success. Ruler of the dinosaurs, the fearsome T-Rex, addresses the standard Wild for this completely exhilarating new game, assisting you with making much more winning payway blends, while the considerable Stacked Wild, the Raging Rex, will arrive on reels 2, 3, 4, 5 or 6 to enact the enormous Rampage mode! In Rampage mode the Raging Rex will step across to the principal reel, granting a free re-turn for each reel it leaves afterward (in the event that it begins on reel 2 it will grant 1 re-turn, reel 3 will grant 2 re-turns and so forth). ",
+        "link": "#"
+    }
+]
